@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_flipIcon___2Smfe</name>
+   <tag></tag>
+   <elementGuidId>fa8a9519-0b98-408e-a328-465173b1359d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flipIcon___2Smfe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pageContainer___16wop&quot;]/div[@class=&quot;CardSelector_wrapper___3b9mv&quot;]/div[@class=&quot;CardSelector_inner___3pAt5&quot;]/div[@class=&quot;CardList_grid___2E_HM&quot;]/div[@class=&quot;CardList_col___3NtPR&quot;]/div[@class=&quot;wrapper___hrHsU&quot;]/div[@class=&quot;react-card-flip&quot;]/div[@class=&quot;react-card-flipper&quot;]/div[@class=&quot;react-card-front&quot;]/div[1]/div[@class=&quot;card___XOH6V&quot;]/div[@class=&quot;cardInner___3UsWD&quot;]/header[@class=&quot;cardHeader___3fbz7&quot;]/i[@class=&quot;flipIcon___2Smfe&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

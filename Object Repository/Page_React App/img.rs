@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>6de26b30-9931-4237-8c62-2ef3ead00555</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//images.ctfassets.net/nmwzdthaj6fd/an44MlAzegik6eS2syq2s/b40737f3efb14ab124b7041be553e99c/download__1_.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pageContainer___16wop&quot;]/div[@class=&quot;AdBanner_wrapper___298Xq&quot;]/div[@class=&quot;AdBanner_inner___39myS&quot;]/div[@class=&quot;AdBanner_cardImageContainer___3rFCZ&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>

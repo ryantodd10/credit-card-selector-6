@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>5118289b-784b-4e46-a6ec-53e794213d8b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//images.ctfassets.net/nmwzdthaj6fd/1nZ3zbD3kQu8EUQ8ai8Ccw/28f51bc99e332ba48dedc64a7385ee16/card_AEQBR280_x_176.2png.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>American Express Qantas Business Rewards Card</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pageContainer___16wop&quot;]/div[@class=&quot;CardSelector_wrapper___3b9mv&quot;]/div[@class=&quot;CardSelector_inner___3pAt5&quot;]/div[@class=&quot;CardList_grid___2E_HM&quot;]/div[@class=&quot;CardList_col___3NtPR&quot;]/div[@class=&quot;wrapper___hrHsU&quot;]/div[@class=&quot;react-card-flip&quot;]/div[@class=&quot;react-card-flipper&quot;]/div[@class=&quot;react-card-front&quot;]/div[1]/div[@class=&quot;card___XOH6V&quot;]/div[@class=&quot;cardInner___3UsWD&quot;]/div[@class=&quot;cardImage___1Wwjw&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>
